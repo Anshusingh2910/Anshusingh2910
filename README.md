@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Anshu Singh Banner"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ANSHU%20SINGH&fontSize=70&color=0:0F172A,100:06B6D4&stroke=00E7FF&fontColor=ffffff" width="100%" />
+</p>
 # 👨‍💻 ANSHU SINGH
 
 ### Full Stack Developer
@@ -15,25 +16,14 @@
 ## 🖥️ Developer Terminal
 
 ```bash
-> whoami
+## 👨‍💻 About Me
 
-Anshu Singh
-
-> role
-
-Full Stack Developer
-
-> stack
-
-Frontend  : HTML, CSS, JavaScript, React
-Backend   : Node.js, Express.js
-Database  : MongoDB
-Language  : C++
-Tools     : Postman, Insomnia, Git, GitHub
-
-> status
-
-🚀 Building scalable web applications...
+- Full Stack Developer
+- MERN Stack Engineer
+- REST API Developer
+- MongoDB Database Designer
+- C++ Programmer
+- Passionate about building scalable web applications
 ```
 
 ---
