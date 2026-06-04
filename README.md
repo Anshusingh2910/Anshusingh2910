@@ -19,7 +19,7 @@
 </div>
 ## 🖥️ Developer Terminal
 
-```bash
+
 > whoami
 
 Anshu Singh
@@ -39,7 +39,6 @@ Tools     : Postman, Insomnia, Git, GitHub
 > status
 
 🚀 Building scalable web applications...
-```
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode&perline=6"/>
