@@ -45,21 +45,15 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshusingh123&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshusingh2910&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=anshusingh123&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=anshusingh2910&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshusingh2910&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
